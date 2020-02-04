@@ -9,3 +9,7 @@
 //Added Hotfix 1
 
 //Tested Hotfix 1
+
+//Preparing for Release 2
+
+//Fixed bug in Release 2
